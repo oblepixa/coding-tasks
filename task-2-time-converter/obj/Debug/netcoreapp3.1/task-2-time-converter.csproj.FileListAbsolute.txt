@@ -1,0 +1,13 @@
+C:\Users\облепиха\source\repos\techn\task-2-time-converter\bin\Debug\netcoreapp3.1\task-2-time-converter.exe
+C:\Users\облепиха\source\repos\techn\task-2-time-converter\bin\Debug\netcoreapp3.1\task-2-time-converter.deps.json
+C:\Users\облепиха\source\repos\techn\task-2-time-converter\bin\Debug\netcoreapp3.1\task-2-time-converter.runtimeconfig.json
+C:\Users\облепиха\source\repos\techn\task-2-time-converter\bin\Debug\netcoreapp3.1\task-2-time-converter.runtimeconfig.dev.json
+C:\Users\облепиха\source\repos\techn\task-2-time-converter\bin\Debug\netcoreapp3.1\task-2-time-converter.dll
+C:\Users\облепиха\source\repos\techn\task-2-time-converter\bin\Debug\netcoreapp3.1\task-2-time-converter.pdb
+C:\Users\облепиха\source\repos\techn\task-2-time-converter\obj\Debug\netcoreapp3.1\task-2-time-converter.csprojAssemblyReference.cache
+C:\Users\облепиха\source\repos\techn\task-2-time-converter\obj\Debug\netcoreapp3.1\task-2-time-converter.AssemblyInfoInputs.cache
+C:\Users\облепиха\source\repos\techn\task-2-time-converter\obj\Debug\netcoreapp3.1\task-2-time-converter.AssemblyInfo.cs
+C:\Users\облепиха\source\repos\techn\task-2-time-converter\obj\Debug\netcoreapp3.1\task-2-time-converter.csproj.CoreCompileInputs.cache
+C:\Users\облепиха\source\repos\techn\task-2-time-converter\obj\Debug\netcoreapp3.1\task-2-time-converter.dll
+C:\Users\облепиха\source\repos\techn\task-2-time-converter\obj\Debug\netcoreapp3.1\task-2-time-converter.pdb
+C:\Users\облепиха\source\repos\techn\task-2-time-converter\obj\Debug\netcoreapp3.1\task-2-time-converter.genruntimeconfig.cache

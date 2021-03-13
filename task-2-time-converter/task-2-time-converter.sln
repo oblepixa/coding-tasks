@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task-2-time-converter", "task-2-time-converter.csproj", "{D8BEEA90-A595-47E4-8148-F9CC9C373052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8BEEA90-A595-47E4-8148-F9CC9C373052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BEEA90-A595-47E4-8148-F9CC9C373052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BEEA90-A595-47E4-8148-F9CC9C373052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BEEA90-A595-47E4-8148-F9CC9C373052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2732EBE0-5089-4225-947B-7DE1097C9743}
+	EndGlobalSection
+EndGlobal
