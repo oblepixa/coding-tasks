@@ -1,0 +1,13 @@
+C:\Users\облепиха\source\repos\inf\task-1-sorting\bin\Debug\netcoreapp3.1\task-1-sorting.exe
+C:\Users\облепиха\source\repos\inf\task-1-sorting\bin\Debug\netcoreapp3.1\task-1-sorting.deps.json
+C:\Users\облепиха\source\repos\inf\task-1-sorting\bin\Debug\netcoreapp3.1\task-1-sorting.runtimeconfig.json
+C:\Users\облепиха\source\repos\inf\task-1-sorting\bin\Debug\netcoreapp3.1\task-1-sorting.runtimeconfig.dev.json
+C:\Users\облепиха\source\repos\inf\task-1-sorting\bin\Debug\netcoreapp3.1\task-1-sorting.dll
+C:\Users\облепиха\source\repos\inf\task-1-sorting\bin\Debug\netcoreapp3.1\task-1-sorting.pdb
+C:\Users\облепиха\source\repos\inf\task-1-sorting\obj\Debug\netcoreapp3.1\task-1-sorting.csprojAssemblyReference.cache
+C:\Users\облепиха\source\repos\inf\task-1-sorting\obj\Debug\netcoreapp3.1\task-1-sorting.AssemblyInfoInputs.cache
+C:\Users\облепиха\source\repos\inf\task-1-sorting\obj\Debug\netcoreapp3.1\task-1-sorting.AssemblyInfo.cs
+C:\Users\облепиха\source\repos\inf\task-1-sorting\obj\Debug\netcoreapp3.1\task-1-sorting.csproj.CoreCompileInputs.cache
+C:\Users\облепиха\source\repos\inf\task-1-sorting\obj\Debug\netcoreapp3.1\task-1-sorting.dll
+C:\Users\облепиха\source\repos\inf\task-1-sorting\obj\Debug\netcoreapp3.1\task-1-sorting.pdb
+C:\Users\облепиха\source\repos\inf\task-1-sorting\obj\Debug\netcoreapp3.1\task-1-sorting.genruntimeconfig.cache
