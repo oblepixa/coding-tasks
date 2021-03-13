@@ -1,0 +1,13 @@
+C:\Users\облепиха\source\repos\inf\task-2-multipliers\bin\Debug\netcoreapp3.1\task-2-multipliers.exe
+C:\Users\облепиха\source\repos\inf\task-2-multipliers\bin\Debug\netcoreapp3.1\task-2-multipliers.deps.json
+C:\Users\облепиха\source\repos\inf\task-2-multipliers\bin\Debug\netcoreapp3.1\task-2-multipliers.runtimeconfig.json
+C:\Users\облепиха\source\repos\inf\task-2-multipliers\bin\Debug\netcoreapp3.1\task-2-multipliers.runtimeconfig.dev.json
+C:\Users\облепиха\source\repos\inf\task-2-multipliers\bin\Debug\netcoreapp3.1\task-2-multipliers.dll
+C:\Users\облепиха\source\repos\inf\task-2-multipliers\bin\Debug\netcoreapp3.1\task-2-multipliers.pdb
+C:\Users\облепиха\source\repos\inf\task-2-multipliers\obj\Debug\netcoreapp3.1\task-2-multipliers.csprojAssemblyReference.cache
+C:\Users\облепиха\source\repos\inf\task-2-multipliers\obj\Debug\netcoreapp3.1\task-2-multipliers.AssemblyInfoInputs.cache
+C:\Users\облепиха\source\repos\inf\task-2-multipliers\obj\Debug\netcoreapp3.1\task-2-multipliers.AssemblyInfo.cs
+C:\Users\облепиха\source\repos\inf\task-2-multipliers\obj\Debug\netcoreapp3.1\task-2-multipliers.csproj.CoreCompileInputs.cache
+C:\Users\облепиха\source\repos\inf\task-2-multipliers\obj\Debug\netcoreapp3.1\task-2-multipliers.dll
+C:\Users\облепиха\source\repos\inf\task-2-multipliers\obj\Debug\netcoreapp3.1\task-2-multipliers.pdb
+C:\Users\облепиха\source\repos\inf\task-2-multipliers\obj\Debug\netcoreapp3.1\task-2-multipliers.genruntimeconfig.cache
