@@ -123,6 +123,7 @@ namespace task_3_wpf_calculator
             if (textB.Text.Length != 0)
             {
                 a = float.Parse(textB.Text);
+
                 textB.Text = String.Empty;
                 count = 4;
                 label1.DataContext = a.ToString() + "/";
@@ -140,7 +141,9 @@ namespace task_3_wpf_calculator
 
         private void Button_Click_8(object sender, RoutedEventArgs e)
         {
-            calculate();
+            b = float.Parse(textB.Text);
+            textB.Text = calculate(a, b, count);
+
             label1.DataContext = "";
         }
 
@@ -171,31 +174,31 @@ namespace task_3_wpf_calculator
 
         }
 
-        private void calculate()
-                {
-                    switch (count)
-                    {
-                        case 1:
-                            b = a + float.Parse(textB.Text);
-                            textB.Text = b.ToString();
-                            break;
-                        case 2:
-                            b = a - float.Parse(textB.Text);
-                            textB.Text = b.ToString();
-                            break;
-                        case 3:
-                            b = a * float.Parse(textB.Text);
-                            textB.Text = b.ToString();
-                            break;
-                        case 4:
-                            b = a / float.Parse(textB.Text);
-                            textB.Text = b.ToString();
-                            break;
+        private string calculate(float a, float b, int variant)
+        {
+            float c;
+            switch (variant)
+            {
+                 case 1:
+                     c = a + b;
+                     break;
+                 case 2:
+                    c = a - b;
+                    break;
+                case 3:
+                    c = a * b;
+                    break;
+                case 4:
+                    c = a / b;
+                    break;
 
-                        default:
-                            break;
-                    }
+                 default:
+                    c = 0;
+                   break;
+            }
+            return c.ToString();
 
-                }
+
+        }
     }
 }
