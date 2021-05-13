@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>task_5_idle_game</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="creeper2.png" />
+    <None Remove="diamond.png" />
+    <None Remove="gold.png" />
+    <None Remove="iron.png" />
+    <None Remove="wood.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="creeper2.png" />
+    <Resource Include="diamond.png" />
+    <Resource Include="gold.png" />
+    <Resource Include="iron.png" />
+    <Resource Include="wood.png" />
+  </ItemGroup>
+
+</Project>
